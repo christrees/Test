@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query>
+  <uuid>j7f2gt23f27fpjug02kbm7occ</uuid>
+  <group-id type="integer">32</group-id>
+  <result-url>http://search.kooaba.com/q/j7f2gt23f27fpjug02kbm7occ</result-url>
+  <item matches="418">
+    <title>Lena</title>
+  </item>
+  <response>
+    <type>TextResponse</type>
+    <content>This is Lena
+und das ist noch etwas weiterer Text
+############
+############
+############
+############
+############
+############</content>
+    <description nil="true"/>
+  </response>
+</query>
